@@ -1,0 +1,12 @@
+.symbol {
+    height: 120px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(156, 179, 240);
+    padding: 15px;
+    gap: 40vh;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.container{
+    background-image: url("/fundo.superliga.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.imgpage{
+    width: 500px;
+    height: 500px
+}
+
+.main{
+    display: flex;
+    gap: 35vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.prim{
+    display: flex;
+    flex-direction: column;
+    gap: 20vh;
+    margin-top: 10vh;
+    padding: 15px;
+}
+
+.img {
+    width: 60%; 
+    height: auto; 
+    display: block;
+    margin: 20px auto;
+}
